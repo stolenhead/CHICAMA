@@ -1,3 +1,71 @@
-/*
-	Inserta tu CSS aqui
-*/
+body{
+	margin:0%;
+}
+.container-fluid{
+	display: inline-block;
+	width: 1100px;
+}
+.none{
+	text-decoration: none;
+	color: black;
+	font-family: "Open+Sans", sans-serif;
+}
+.sum{
+	border-radius: 7%;
+	background-color: #F7B617;
+	padding: 15px;
+}
+.mar{
+	margin-right: 120px;
+}
+.lab{
+	background-image: url(../img/grupal.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 105%;
+	height: 735px;
+}
+.logo{
+	margin-top: 9%;
+	margin-left: 3%;
+}
+.top{
+	margin-top: 5%;
+	margin-left: 10%;
+	margin-right: 4%;
+}
+.topa{
+	margin-top: 5%;
+}
+section{
+	margin-left: 5%;
+}
+.sec{
+	margin-top: 2%;
+	margin-left: 5%;
+}
+h3{
+	font-family:"Open+Sans", sans-serif; 
+}
+.tam{
+	width: 100%;
+}
+footer{
+	background-color: #323230;
+	color: #F8F0D9;
+}
+.ma{
+	font-family: "Open+Sans", sans-serif;
+	font-size: 14px;
+    padding-right: 6px;
+}
+.foot{
+	margin-right: 6px;
+	display: inline-block;
+}
+.b{
+	border-right: 2px solid #F8F0D9;
+}
+.c{
+	padding-left: 40px;
+}
